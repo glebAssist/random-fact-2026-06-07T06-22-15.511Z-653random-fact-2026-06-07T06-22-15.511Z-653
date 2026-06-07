@@ -1,2 +1,5 @@
-# random-fact-2026-06-07T06-22-15.511Z-653random-fact-2026-06-07T06-22-15.511Z-653
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Before 1928, yo-yos used to be called bandalores in the United States
+
+*Generated on 2026-06-07T06:22:17.593Z*
